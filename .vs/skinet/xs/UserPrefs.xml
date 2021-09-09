@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{7B05433D-3B6A-4BCB-8F15-F3EEBF7D7D38}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Data/GenericRepository.cs">
+    <Files>
+      <File FileName="Core/Specifications/ISpecification.cs" Line="12" Column="1" />
+      <File FileName="Core/BaseSpecification.cs" Line="21" Column="45" />
+      <File FileName="Infrastructure/Data/SpecificationEvaluator.cs" Line="8" Column="2" />
+      <File FileName="Infrastructure/Data/GenericRepository.cs" Line="31" Column="65" />
+      <File FileName="Core/Interfaces/IGenericRepository.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="skinet" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Specifications" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="GenericRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
